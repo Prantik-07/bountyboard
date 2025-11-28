@@ -6,6 +6,8 @@ Bounty Board — On-chain task and reward marketplace
 ## Contract Address
 `0xB61aCB4e6bA06CE5ef0c0846FE7b806670E9a747`  
 View on Coston2 Explorer: https://coston2-explorer.flare.network/address/0xB61aCB4e6bA06CE5ef0c0846FE7b806670E9a747
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a97be204-f5de-4e0e-9d31-0a2fe45b2d22" />
+
 
 ## Description
 This project provides a minimal front-end integration with an on-chain Bounty Board smart contract deployed on the Coston2 (Flare) testnet. The contract enables users to create bounties with an attached reward (payable), allow hunters to apply for bounties, let bounty creators mark tasks as completed, and permit hunters to claim rewards once conditions are met.
